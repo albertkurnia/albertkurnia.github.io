@@ -1,4 +1,4 @@
-title: if (isLife) { eat(); sleep(); code(); repeat(); }
+title: while (isLife) { eat(); sleep(); code() }
 description: catatan seorang software engineer
 show_downloads: true
 google_analytics:
