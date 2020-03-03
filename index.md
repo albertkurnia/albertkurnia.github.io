@@ -2,4 +2,4 @@
 layout: default
 ---
 
-# [Introduction] (./introduction.html)
+[Introduction] (./introduction.html)
