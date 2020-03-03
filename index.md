@@ -1,5 +1,6 @@
 ---
 layout: default
+title: while (isLife) { eat(); sleep(); code() }
 ---
 
 # [About](./about.html)
